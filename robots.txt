@@ -1,1 +1,3 @@
-Disallow: /solucion.html
+Disallow: 
+/solucion.html
+/diario.html
